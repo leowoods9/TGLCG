@@ -1,12 +1,12 @@
 {
-  "name": "Telegram Torrent Leecher",
-  "description": "A Telegram Torrent (and youtube-dl) Leecher based on Pyrogram. Powered by @torrentleechgdrivesupport!",
+  "name": "Sahil nolia",
+  "description": "Sahil nolia",
   "keywords": [
     "telegram"
   ],
-  "repository": "https://github.com/reaitten/tgtlg",
-  "success_url": "https://t.me/orsixtyone",
-  "website": "https://github.com/reaitten/tgtlg",
+  "repository": "https://github.com/leowoods9/TGLCG",
+  "success_url": "https://github.com/leowoods9/TGLCG",
+  "website": "https://github.com/leowoods9/TGLCG",
   "env": {
     "ENV": {
       "description": "Setting this to ANYTHING will enable webhooks when in env mode",
